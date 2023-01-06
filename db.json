@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "title": "A dummy task here",
+      "reminder": "15th Jan @ 2:30pm",
+      "hasReminder": true,
+      "id": 1
+    },
+    {
+      "title": "Another dummy task here",
+      "reminder": "",
+      "hasReminder": false,
+      "id": 2
+    }
+  ]
+}
